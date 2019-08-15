@@ -1,4 +1,6 @@
 # 2019.3.9
+
+
 import tkinter as tk
 import random
 import time
